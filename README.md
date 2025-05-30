@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Betina Kuriakose</h1>
 <h3 align="center">Curious Mind 🤖 | ML Today, DevOps Tomorrow</h3>
 
-- 🔭 I’m currently working on **MindMatters**
+- 🔭 I’m currently working on **FRONTEND**
 
 - 🌱 I’m currently learning **Django, Frontend & Backend Development, and improving my skills in ML**
 
