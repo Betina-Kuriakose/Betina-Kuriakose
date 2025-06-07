@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project **SHOPPING-website**
 
-- 🌱 I’m currently learning **DFrontend & Backend Development, and improving my skills in ML**
+- 🌱 I’m currently learning **Frontend & Backend Development, and improving my skills in ML**
 
 - 📫 How to reach me: **betinafareago@gmail.com**
 
