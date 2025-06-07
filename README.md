@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Betina Kuriakose</h1>
 <h3 align="center">Curious Mind 🤖 | ML Today, DevOps Tomorrow</h3>
 
-- 🔭 I’m currently working on **FRONTEND**
+- 🔭 I’m currently working on a project **SHOPPING-website**
 
-- 🌱 I’m currently learning **Django, Frontend & Backend Development, and improving my skills in ML**
+- 🌱 I’m currently learning **DFrontend & Backend Development, and improving my skills in ML**
 
 - 📫 How to reach me: **betinafareago@gmail.com**
 
@@ -32,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 #### 🗃️ Databases:
